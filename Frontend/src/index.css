@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Soft, clean light blue gradient background */
+.clean-bg {
+  background: linear-gradient(135deg, #e0f2fe 0%, #f8fafc 100%);
+}
